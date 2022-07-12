@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Muhammad Ali Hasnain 
 
 # 💫About Me :
-- 🔭 I’m currently working on a sopping cart Project. 
+- 🔭 I’m currently working on a shoping cart Project. 
 - 🌱 I’m currently learning Web devolopment.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 Can reach me out : hasnainali333050@gmail.com
